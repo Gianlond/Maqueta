@@ -1,0 +1,26 @@
+.navbar.navbar-expand-lg.bg-success{
+    background-color: rgba(138, 34, 235, 0.832) !important;
+}
+i.fa-brands.fa-linkedin.fa-2xl:hover{
+color: rgb(34, 244, 244);
+}
+i.fa-brands.fa-facebook.fa-2xl:hover{
+    color: rgb(9, 9, 237);
+    }
+i.fa-brands.fa-instagram.fa-2xl:hover{
+        color: rgb(242, 181, 192);
+        }
+i.fa-brands.fa-instagram.fa-2xl,
+i.fa-brands.fa-facebook.fa-2xl,
+i.fa-brands.fa-linkedin.fa-2xl,
+i.fa-solid.fa-user-lock.fa-2xl{
+    color:#fff;
+}
+
+i.fa-solid.fa-user-lock.fa-2xl:hover{
+            color: rgb(229, 17, 17);
+            }
+ul.list-group.list-group-horizontal{
+    --bs-list-group-bg:transparent;
+    --bs-list-group-border-color:transparent;
+}
