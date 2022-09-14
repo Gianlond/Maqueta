@@ -24,3 +24,9 @@ ul.list-group.list-group-horizontal{
     --bs-list-group-bg:transparent;
     --bs-list-group-border-color:transparent;
 }
+body{
+    background-image: url(../img/sol.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+
