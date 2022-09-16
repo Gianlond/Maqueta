@@ -13,11 +13,14 @@ i.fa-brands.fa-instagram.fa-2xl:hover{
 i.fa-brands.fa-instagram.fa-2xl,
 i.fa-brands.fa-facebook.fa-2xl,
 i.fa-brands.fa-linkedin.fa-2xl,
-i.fa-solid.fa-user-lock.fa-2xl{
+i.fa-solid.fa-user-lock.fa-2xl,
+i.fa-solid.fa-user{
     color:#fff;
 }
-
-i.fa-solid.fa-user-lock.fa-2xl:hover{
+i.fa-solid.fa-user-unlock.fa-2xl:hover{
+    color: rgb(229, 17, 17);
+}
+i.fa-solid.fa-user.fa-2xl:hover{
             color: rgb(229, 17, 17);
             }
 ul.list-group.list-group-horizontal{
@@ -31,4 +34,9 @@ body{
     }
 section.about{
     color:#fff;
+}
+body.dashboard{
+    background-image: url(../img/lobo.jpg);
+    background-repeat:repeat;
+    background-size:40%;
 }
