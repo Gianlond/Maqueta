@@ -35,8 +35,16 @@ body{
 section.about{
     color:#fff;
 }
-body.dashboard{
+body.dashboard.dashboard{
     background-image: url(../img/lobo.jpg);
     background-repeat:repeat;
     background-size:40%;
+}
+section.cosa{
+    margin-top: 2rem;
+    color: #fff;
+}
+section.panel{
+    margin-top: 5rem;
+    padding: 5%;
 }
